@@ -1,0 +1,5 @@
+com\empresa\mavencrud\controller\AltaModeloServlet.class
+com\empresa\mavencrud\model\Producto.class
+com\empresa\mavencrud\controller\EliminarServlet.class
+com\empresa\mavencrud\ActualizarPrecioServlet.class
+com\empresa\mavencrud\AltaServlet.class
